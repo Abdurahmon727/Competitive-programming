@@ -7,7 +7,9 @@ Exercises from Competitive Programmer's Handbook by Antti Laaksonen
 2. Set: list of unique elements, saves elements sorted order (unordered_set is more efficient)
 3. Map: just like array but can be accessed by custom key not only indexes.
 4. Bitset: same with list but saves only 0 or 1, more efficient while working with binary
-5. 
+5. Deque: Dynamic array which can be accessed by both ends: front and back (push_back() , push_front())
+6. Stack: LIFO
+7. Queue: FIFO
 
 
 # C++ built in functions:
